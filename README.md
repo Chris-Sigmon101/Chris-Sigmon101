@@ -5,3 +5,4 @@
 - goals: i'm currently working towards an associate degree in networking
 - fun fact: i enjoy video games
 - favorite foods: i like BBQ alot and have a love for sushi
+# README.md
